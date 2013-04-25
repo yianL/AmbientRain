@@ -1,0 +1,141 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/FCJs-SuStoFHIQlJA9Nk_KAqygM\"",
+ "pageInfo": {
+  "totalResults": 1000000,
+  "resultsPerPage": 5
+ },
+ "nextPageToken": "CAUQAA",
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/B7xn02R88y9fCu4shvRJSjT-Kas\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCLRpI5yd10aJxSel3e6MlNw"
+   },
+   "snippet": {
+    "publishedAt": "2007-09-14T05:50:29.000Z",
+    "channelId": "UCLRpI5yd10aJxSel3e6MlNw",
+    "title": "gootmusic",
+    "description": "I live in New York and I make music. Everything you see + hear on my page was produced and put together by me (and occasionally some friends). This means ...",
+    "thumbnails": {
+     "default": {
+      "url": "http://i.ytimg.com/i/LRpI5yd10aJxSel3e6MlNw/1.jpg"
+     },
+     "medium": {
+      "url": "http://i.ytimg.com/i/LRpI5yd10aJxSel3e6MlNw/mq1.jpg"
+     },
+     "high": {
+      "url": "http://i.ytimg.com/i/LRpI5yd10aJxSel3e6MlNw/hq1.jpg"
+     }
+    },
+    "channelTitle": "gootmusic"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/hq3c86lrZ2gQ15vpCq6mvOLPoD4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "n-BXNXvTvV4"
+   },
+   "snippet": {
+    "publishedAt": "2013-01-05T17:49:56.000Z",
+    "channelId": "UCplkk3J5wrEl0TNrthHjq4Q",
+    "title": "\"Beauty And A Beat\" - Justin Bieber (Alex Goot, Kurt Schneider, and Chrissy Costanza Cover)",
+    "description": "SUBSCRIBE! I promise, it's fun :1 http://bit.ly/SubscribeKHS Had a blast making this video with Alex and Chrissy! If you like it, it's on iTunes here: https:...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n-BXNXvTvV4/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n-BXNXvTvV4/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n-BXNXvTvV4/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "KurtHugoSchneider"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/Mfp23wDwyUUrKA5CrRwaefAKbPk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AZHmNcb8Krc"
+   },
+   "snippet": {
+    "publishedAt": "2012-09-29T16:30:13.000Z",
+    "channelId": "UCLRpI5yd10aJxSel3e6MlNw",
+    "title": "\"One More Night\" - Maroon 5 - Alex Goot & Friends (7 Youtuber Collab!)",
+    "description": "This song on iTunes: http://bit.ly/agf_2 - Check out my single + music video, \"Lightning\": http://bit.ly/aglightning ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AZHmNcb8Krc/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AZHmNcb8Krc/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AZHmNcb8Krc/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "gootmusic"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/Q62c2A_DfD2n8DVfUFGb9VI4B2I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cnGMG798SCI"
+   },
+   "snippet": {
+    "publishedAt": "2012-10-27T19:54:58.000Z",
+    "channelId": "UCLRpI5yd10aJxSel3e6MlNw",
+    "title": "\"Catch My Breath\" - Kelly Clarkson - Official Cover Video (Alex Goot & Against The Current)",
+    "description": "This song on iTunes: http://bit.ly/agf_2 - Check out my single + music video, \"Lightning\": http://bit.ly/aglightning. \"Ca...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cnGMG798SCI/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cnGMG798SCI/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cnGMG798SCI/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "gootmusic"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"8TOPSm5ek9Nh6woLJrPMROQl6rM/OWuHno2MAnh6X8W3GpvEtFnOrMU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "L1ZMHV7adnE"
+   },
+   "snippet": {
+    "publishedAt": "2012-11-24T17:30:13.000Z",
+    "channelId": "UCLRpI5yd10aJxSel3e6MlNw",
+    "title": "\"Diamonds\" - Rihanna (Alex Goot, Julia Sheer, Chad Sugg COVER)",
+    "description": "This song on iTunes: http://bit.ly/agf_2 - Check out my single + music video, \"Lightning\": http://bit.ly/aglightning. \"Di...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L1ZMHV7adnE/default.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L1ZMHV7adnE/mqdefault.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L1ZMHV7adnE/hqdefault.jpg"
+     }
+    },
+    "channelTitle": "gootmusic"
+   }
+  }
+ ]
+}
